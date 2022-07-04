@@ -1,0 +1,6 @@
+//1. kontroler spajanje sa klientom za api pozive
+//2. servis za logiku i komunikaciju izmedu kontrolera i repo, servis mora vracati dtoove
+//3. repo spanjanje na bazu 
+//4. mapper za pretvaranje dto u entitet i obrnuto, opcenito mappiranja java klasa
+
+//Api prica sa Klienton , servisni sloj za logiku spaja se kontroler , servisni ide na repo i repo ide na bazu 
